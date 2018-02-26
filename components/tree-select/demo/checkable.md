@@ -61,6 +61,7 @@ class Demo extends React.Component {
       treeCheckable: true,
       showCheckedStrategy: SHOW_PARENT,
       searchPlaceholder: 'Please select',
+      dropdownMatchSelectWidth:false,
       style: {
         width: 300,
       },
